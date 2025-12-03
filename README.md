@@ -87,4 +87,4 @@ This requires **three separate terminal windows** to run simultaneously.
 Open your browser to the client URL (`http://localhost:5173/`) to view the application.
 
 ---
-*Developed by **Shashank S***
+*Developed by **Deekshith gowda kv***
