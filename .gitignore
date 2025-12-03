@@ -1,0 +1,11 @@
+# Dependencies
+/node_modules
+/server/node_modules
+/client/node_modules
+
+# Environment Variables (CRITICAL SECURITY)
+.env
+/server/.env
+
+# Build Artifacts
+/client/dist
